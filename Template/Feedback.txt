@@ -1,0 +1,4 @@
+[[FULL_NAME]] recently completed [[ASSESSMENT_NAME]] assessment on [[COMPLETED_ASSESSMENT]]
+He got [[TOTAL]] questions right out of [[TOT_STRAND]]. Feedback for wrong answers given below
+
+[[LIST]]

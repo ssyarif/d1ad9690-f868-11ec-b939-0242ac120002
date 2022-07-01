@@ -1,0 +1,4 @@
+[[FULLNAME]] recently completed [[ASSESSMENT_NAME]] assessment [[COMPLETED_ASSESSMENT]]
+He got [[TOTAL]] questions right out of [[TOT_STRAND]]. Details by strand given below
+
+[[LIST]]
