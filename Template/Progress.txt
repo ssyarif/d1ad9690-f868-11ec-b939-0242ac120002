@@ -2,4 +2,4 @@
 
 [[LIST]]
 
-[[FULL_NAME]] got [[EVAL_RESULT]] in the recent completed assessment than the oldest
+[[FULL_NAME]] [[EVAL_RESULT]]
