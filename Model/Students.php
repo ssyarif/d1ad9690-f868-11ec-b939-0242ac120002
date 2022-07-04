@@ -29,6 +29,8 @@ Class Students {
 
     if($found == false){
       echo "Unable to find the student with ID: $id in student record\n";
+      echo "Terminating the program.....\n";
+      exit();
     }
 
     return $obj;
