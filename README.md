@@ -5,7 +5,8 @@ There is no test script provided on this submission, to test the script please f
 INSTRUCTION
 1. Copy all the files .php and .json files into local PHP environment
 2. Run the Main.php script in Command Line mode as follow:
-     php Main.php
+
+    > php Main.php
 3. Enter the student id and report types as preferred below and see its expected outcome:
      -   student1 <ENTER> 1 <ENTER>     Expected Result: will generate Diagnostic Report for student1
      -   student1 <ENTER> 2 <ENTER>     Expected Result: will generate Progress Report for student1
